@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SymFiz">
+</Property><Property Name="Solution File" Value="C:\Users\Kuba\Documents\Visual Studio 2008\Projects\SymFiz\SymFiz.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Kuba\Documents\Visual Studio 2008\Projects\SymFiz\SymFiz.suo">
+</Property><Property Name="Date" Value="8 lipca 2010">
+</Property><Property Name="Time" Value="18:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SymFiz.sln" Description="File successfully backed up as C:\Users\Kuba\Documents\Visual Studio 2008\Projects\SymFiz\SymFiz.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="SymFiz.suo" Description="File successfully backed up as C:\Users\Kuba\Documents\Visual Studio 2008\Projects\SymFiz\SymFiz.suo.old">
+</Event><Event ErrorLevel="0" Project="SymFiz" Source="SymFiz\SymFiz.vcproj" Description="Converting project file 'C:\Users\Kuba\Documents\Visual Studio 2008\Projects\SymFiz\SymFiz\SymFiz.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SymFiz" Source="SymFiz\SymFiz.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="SymFiz" Source="SymFiz\SymFiz.vcproj" Description="VCConvertEngine could not convert attribute UseFAT32Workaround = false under Tool VCManifestTool.">
+</Event><Event ErrorLevel="0" Project="SymFiz" Source="SymFiz\SymFiz.vcproj" Description="Done converting to new project file 'C:\Users\Kuba\Documents\Visual Studio 2008\Projects\SymFiz\SymFiz\SymFiz.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SymFiz" Source="SymFiz\SymFiz.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SymFiz.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SymFiz.sln" Description="Converted">
+</Event></UpgradeLog>
